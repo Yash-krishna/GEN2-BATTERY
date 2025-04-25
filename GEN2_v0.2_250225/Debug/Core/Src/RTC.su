@@ -1,0 +1,7 @@
+../Core/Src/RTC.c:57:6:convert_tod_to_time	40	static
+../Core/Src/RTC.c:113:14:calculate_nextdate	56	static
+../Core/Src/RTC.c:197:5:is_leap_year	16	static
+../Core/Src/RTC.c:239:5:convert_strtime_TO_timeofday	24	static
+../Core/Src/RTC.c:286:5:set_tcu_time	48	static
+../Core/Src/RTC.c:407:5:validate_date_time	64	static
+../Core/Src/RTC.c:508:6:read_tcu_time	16	static

@@ -1,0 +1,8 @@
+../Core/Src/BLE_send_recv.c:71:6:scan_state_manager	3
+../Core/Src/BLE_send_recv.c:98:6:scan_on_routine	8
+../Core/Src/BLE_send_recv.c:144:6:scan_off_routine	3
+../Core/Src/BLE_send_recv.c:163:6:initiate_broadcast	1
+../Core/Src/BLE_send_recv.c:177:6:initiate_scan_on	1
+../Core/Src/BLE_send_recv.c:197:6:initiate_scan_off	1
+../Core/Src/BLE_send_recv.c:210:6:process_ti_receive	6
+../Core/Src/BLE_send_recv.c:241:6:send_totp_to_bmcu	1
